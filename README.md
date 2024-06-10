@@ -17,22 +17,24 @@ This project provides a comprehensive analysis of hotel booking data, focusing o
 ## Data
 The analysis is based on hotel booking data, which includes the following fields:
 
-Field	Description
--[Hotel	H1, H2](City Hotel,Resort Hotel) 
--[is_cancelled](If the booking was cancelled (1) or not (0))
--[lead_time](Number of days between booking entry and arrival date)
--[arrival_date_year](Year of arrival date)
--[arrival_date_month](Month of arrival date)
--[arrival_date_week_number](Week number for arrival date)
--[arrival_date_day](Day of arrival date)
--[stays_in_weekend_nights](Number of weekend nights (Saturday or Sunday) stayed or booked to stay)
--[stays_in_week_nights](Number of week nights (Monday to Friday) stayed or booked to stay)
--[adults](Number of adults)
--[children](Number of children)
--[babies](Number of babies)
--[meal](Type of meal opted for)
--[country](Country code)
--[market_segment](Market segment the customer belongs to)
+| Field                      | Description                                                                 |
+|----------------------------|-----------------------------------------------------------------------------|
+| Hotel                      | H1 = Resort Hotel, H2 = City Hotel                                          |
+| is_cancelled               | If the booking was cancelled (1) or not (0)                                  |
+| lead_time                  | Number of days between booking entry and arrival date                        |
+| arrival_date_year          | Year of arrival date                                                        |
+| arrival_date_month         | Month of arrival date                                                       |
+| arrival_date_week_number   | Week number for arrival date                                                |
+| arrival_date_day           | Day of arrival date                                                         |
+| stays_in_weekend_nights    | Number of weekend nights (Saturday or Sunday) stayed or booked to stay       |
+| stays_in_week_nights       | Number of week nights (Monday to Friday) stayed or booked to stay            |
+| adults                     | Number of adults                                                            |
+| children                   | Number of children                                                          |
+| babies                     | Number of babies                                                            |
+| meal                       | Type of meal opted for                                                      |
+| country                    | Country code                                                                |
+| market_segment             | Market segment the customer belongs to                                      |
+
 
 ## Analysis Highlights
 1. **Price and Volume Dynamics**
