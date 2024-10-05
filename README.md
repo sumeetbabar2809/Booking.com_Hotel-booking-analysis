@@ -1,6 +1,7 @@
 # Hotel Booking Analysis
 
-### Client: Booking.com
+### Client: Booking.com[Booking.com](https://www.booking.com/)
+
 
 ## Business Context
 Booking.com operates at the forefront of global hospitality, managing a diverse range of hotel bookings across various locations, customer profiles, and booking channels. This dataset provides an extensive look into their booking operations, capturing key details such as booking lead times, arrival dates, meal plans, room types, and customer preferences. It also includes information on booking channels, special requests, and reservation statuses.
