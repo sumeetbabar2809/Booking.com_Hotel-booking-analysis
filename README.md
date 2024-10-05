@@ -1,6 +1,6 @@
 # Hotel Booking Analysis
 
-### Client: Booking.com[Booking.com](https://www.booking.com/)
+## Client: [Booking.com(https://www.booking.com/)
 
 
 ## Business Context
